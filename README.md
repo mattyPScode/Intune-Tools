@@ -60,10 +60,6 @@ Intune Apps Analyzer supports two Microsoft Graph authentication methods:
 
 ## Requirements
 
-### Operating System
-- Windows 10 / 11
-- Windows Server 2019 / 2022
-
 ### Microsoft Graph Permissions
 The following delegated permissions are required:
 
@@ -71,17 +67,6 @@ The following delegated permissions are required:
 - `Group.Read.All`
 
 Admin consent may be required depending on tenant configuration.
-
---- 
-
-## Assignment Modes
-
-| Mode | Description |
-|------|-------------|
-| INCLUDE | Application assigned only to Include groups |
-| EXCLUDE | Application assigned only to Exclude groups |
-| MIXED | Application contains both Include and Exclude assignments |
-| NONE | No assignments detected |
 
 ---
 ## Example Use Cases
