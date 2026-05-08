@@ -101,5 +101,3 @@ Admin consent may be required depending on tenant configuration.
 - WPF (Windows Presentation Foundation)
 - Microsoft Graph API
 - XAML
-
----
