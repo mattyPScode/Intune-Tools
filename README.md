@@ -11,7 +11,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 ### Assignment Analysis
 - Analyze all Microsoft Intune mobile applications
 - View Include and Exclude group assignments
-- Detect conflicting assignment configurations
+- Identify assigned filters
 - Identify applications without assignments
 
 ### Application Information
@@ -47,15 +47,6 @@ Intune Apps Analyzer supports two Microsoft Graph authentication methods:
 |--------|-------------|
 | Interactive Login | Standard Microsoft login window using browser-based authentication |
 | Device Code Authentication | Secure authentication using Microsoft device code flow for restricted or headless environments |
-
-### Device Code Authentication
-
-1. Launch the application
-2. Select **Device Code Authentication**
-3. Copy the generated authentication code
-4. Open the Microsoft verification page
-5. Enter the code and sign in
-6. Return to the application after successful authentication
 
 ---
 
