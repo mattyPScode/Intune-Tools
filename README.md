@@ -31,22 +31,12 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 - Sortable DataGrid
 - Search and filtering support
 - Responsive layout
+- Two Microsoft Graph authentication methods (Interactive Login & Device Code Authentication)
 
 ### Security
 - Read-only Microsoft Graph permissions
 - No modification of Intune configuration
 - Safe for production environments
-
----
-
-## Authentication Methods
-
-Intune Apps Analyzer supports two Microsoft Graph authentication methods:
-
-| Method | Description |
-|--------|-------------|
-| Interactive Login | Standard Microsoft login window using browser-based authentication |
-| Device Code Authentication | Secure authentication using Microsoft device code flow for restricted or headless environments |
 
 ---
 
