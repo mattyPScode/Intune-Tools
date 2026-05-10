@@ -54,7 +54,7 @@ Intune Apps Analyzer supports two Microsoft Graph authentication methods:
 
 ### Application Window
 
-![Application](IntuneAppsAnalyzer/Screenshots/Application.jpg)
+![Application](IntuneAppsAnalyzer/Screenshots/Applications.jpg)
 
 ---
 
