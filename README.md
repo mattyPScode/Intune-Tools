@@ -44,7 +44,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 
 ### Application Window
 
-![Application](IntuneAppsAnalyzer/Screenshots/Applications.jpg)
+![Application](IntuneAppsAnalyzer/Screenshots/Application.jpg)
 
 ---
 
