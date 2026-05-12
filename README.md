@@ -26,13 +26,6 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 - Export results to HTML
 - Generate reporting-ready data
 
-### User Interface
-- Modern WPF graphical interface
-- Sortable DataGrid
-- Search and filtering support
-- Responsive layout
-- Two Microsoft Graph authentication methods (Interactive Login & Device Code Authentication)
-
 ### Security
 - Read-only Microsoft Graph permissions
 - No modification of Intune configuration
