@@ -21,9 +21,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 - No modification of Intune configuration
 - Safe for production environments
 
-## Requirements
-
-## Microsoft Graph Permissions
+## Requirements - Microsoft Graph Permissions
 The following delegated permissions are required:
 
 - `DeviceManagementApps.Read.All`
