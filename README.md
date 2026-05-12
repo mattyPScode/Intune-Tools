@@ -4,6 +4,7 @@ Intune Apps Analyzer is a professional PowerShell-based GUI tool designed for Mi
 
 The application provides a fast and intuitive way to inspect Include/Exclude group assignments and export detailed reports for auditing and troubleshooting purposes.
 
+![Application](IntuneAppsAnalyzer/Screenshots/Application.jpg)
 ---
 
 ## Features
@@ -30,14 +31,6 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 - Read-only Microsoft Graph permissions
 - No modification of Intune configuration
 - Safe for production environments
-
----
-
-## Screenshots
-
-### Application Window
-
-![Application](IntuneAppsAnalyzer/Screenshots/Application.jpg)
 
 ---
 
