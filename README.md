@@ -10,7 +10,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 
 * **Assignment analysis** - Full visibility into deployment groups.
 * **Identify applications without assignments** - Find orphaned apps quickly.
-* **Get applications information** - Detailed metadata at a glance.
+* **Get applications information** - Detailed data.
 * **Export results** - Generate reports in **CSV** and **HTML** formats.
 * **Authentication methods** - Support for both **Device Code** & **Interactive** (browser) login.
 
