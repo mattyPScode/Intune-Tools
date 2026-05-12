@@ -8,7 +8,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 
 ---
 
-## ✨ Features
+## ⚙️ Features
 
 * **Assignment analysis** - Full visibility into deployment groups.
 * **Identify applications without assignments** - Find orphaned apps quickly.
@@ -22,7 +22,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 * **No modification** of Intune configuration.
 * **Safe** for production environments.
 
-## 📋 Requirements - Microsoft Graph Permissions
+## 🔑 Requirements - Microsoft Graph Permissions
 
 The following delegated permissions are required:
 
@@ -34,7 +34,7 @@ The following delegated permissions are required:
 > [!IMPORTANT]
 > Admin consent may be required depending on tenant configuration.
 
-## 💡 Example Use Cases
+## 🎯 Example Use Cases
 
 * **Intune environment auditing**
 * **Assignment troubleshooting**
