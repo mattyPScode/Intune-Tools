@@ -6,8 +6,6 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 
 ![Application](IntuneAppsAnalyzer/Screenshots/Application.jpg)
 
----
-
 ## ⚙️ Features
 
 * **Assignment analysis** - Full visibility into deployment groups.
