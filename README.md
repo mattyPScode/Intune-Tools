@@ -1,4 +1,4 @@
-## Intune Apps Analyzer
+# Intune Apps Analyzer
 
 Intune Apps Analyzer is a professional PowerShell-based GUI tool designed for Microsoft Intune administrators to analyze mobile application assignments through Microsoft Graph API.
 
