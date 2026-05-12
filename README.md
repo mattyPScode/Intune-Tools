@@ -44,4 +44,4 @@ The following delegated permissions are required:
 * **Tenant cleanup operations**
 
 ---
-*Created with PowerShell & Microsoft Graph API*
+
