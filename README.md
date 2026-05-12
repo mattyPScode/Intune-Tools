@@ -9,23 +9,12 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 
 ## Features
 
-### Assignment Analysis
-- Analyze all Microsoft Intune mobile applications
-- View Include and Exclude group assignments
-- Identify assigned filters
+- Assignment Analysis
 - Identify applications without assignments
-
-### Application Information
-- Display application name
-- Publisher information
-- Platform type
-- Application version
-- Assignment mode status
-
-### Export Options
+- Get applications Information
+- Export results to CSV/HTML
 - Export results to CSV
 - Export results to HTML
-- Generate reporting-ready data
 
 ### Security
 - Read-only Microsoft Graph permissions
