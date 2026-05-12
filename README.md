@@ -15,6 +15,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 - Export results to CSV/HTML
 - Export results to CSV
 - Export results to HTML
+- Two authentication methods (device code & interactive in browser)
 
 ### Security
 - Read-only Microsoft Graph permissions
