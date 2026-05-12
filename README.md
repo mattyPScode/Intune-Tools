@@ -1,4 +1,4 @@
-# Intune Apps Analyzer
+## Intune Apps Analyzer
 
 Intune Apps Analyzer is a professional PowerShell-based GUI tool designed for Microsoft Intune administrators to analyze mobile application assignments through Microsoft Graph API.
 
@@ -8,7 +8,7 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 ![Application](IntuneAppsAnalyzer/Screenshots/Application.jpg)
 ---
 
-## Features
+# Features
 
 - Assignment analysis
 - Identify applications without assignments
@@ -16,14 +16,14 @@ The application provides a fast and intuitive way to inspect Include/Exclude gro
 - Export results to CSV/HTML
 - Two authentication methods (device code & interactive in browser)
 
-### Security
+# Security
 - Read-only Microsoft Graph permissions
 - No modification of Intune configuration
 - Safe for production environments
 
-## Requirements
+# Requirements
 
-### Microsoft Graph Permissions
+# Microsoft Graph Permissions
 The following delegated permissions are required:
 
 - `DeviceManagementApps.Read.All`
@@ -31,7 +31,7 @@ The following delegated permissions are required:
 
 Admin consent may be required depending on tenant configuration.
 
-## Example Use Cases
+# Example Use Cases
 
 - Intune environment auditing
 - Assignment troubleshooting
